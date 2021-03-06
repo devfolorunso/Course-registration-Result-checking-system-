@@ -1,0 +1,36 @@
+body{
+	padding-top: 40px !important;
+}
+
+.mycard{
+	box-shadow: 0 1px 3px 2px rgba(0,0,0,0.4);
+	background-color: #fff !important;
+	margin-top:-3% !important;
+
+}
+
+html{
+	overflow-x: hidden;
+}
+
+.edited{
+	box-shadow:none !important;
+	border: none !important;
+}
+
+.test{
+	background-color: #111 !important;
+
+}
+
+.row label,input{
+	color: #fff;
+}
+
+.upper{
+	position: relative;
+	z-index: 1;
+	top: 50%;
+}
+
+
